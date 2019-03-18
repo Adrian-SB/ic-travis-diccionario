@@ -1,8 +1,8 @@
 # Prueba
 
 
-Ejemplo de integración continúa para
+Ejemplo de integración continua para
 
 * Esto es una prueba
 * Esto es un error
-* Esto es un eror
+* Esto es un error
